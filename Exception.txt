@@ -1,0 +1,16 @@
+5åé 12, 2020 2:31:26 åﬂå„ desk.sample.LastException LogWrite
+åxçê: java.lang.IllegalArgumentException: defaultCloseOperation must be one of: DO_NOTHING_ON_CLOSE, HIDE_ON_CLOSE, or DISPOSE_ON_CLOSE
+	at java.desktop/javax.swing.JDialog.setDefaultCloseOperation(JDialog.java:755)
+	at desk.sample.FrameAuth.FrameDesignSetting(FrameAuth.java:54)
+	at desk.sample.FrameAuth.<init>(FrameAuth.java:25)
+	at desk.sample.HttpsRestClientSwing.run(HttpsRestClientSwing.java:44)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+5åé 12, 2020 2:46:09 åﬂå„ desk.sample.LastException LogWrite
+åxçê: java.lang.IllegalArgumentException: defaultCloseOperation must be one of: DO_NOTHING_ON_CLOSE, HIDE_ON_CLOSE, or DISPOSE_ON_CLOSE
+	at java.desktop/javax.swing.JDialog.setDefaultCloseOperation(JDialog.java:755)
+	at desk.sample.FrameAuth.FrameDesignSetting(FrameAuth.java:54)
+	at desk.sample.FrameAuth.<init>(FrameAuth.java:25)
+	at desk.sample.HttpsRestClientSwing.run(HttpsRestClientSwing.java:44)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
