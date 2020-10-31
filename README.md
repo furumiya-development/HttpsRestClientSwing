@@ -5,8 +5,8 @@ ___
 開発環境：Eclipse 2020-09 R(4.17.0) Pleiades  
 言語：Java 11  
 デスクトップ：Swing
-デベロッパーSDK：Adopt OpenJDK 11.0.8  
-JSONライブラリー：Jackson 2.11.2  
+デベロッパーSDK：Adopt OpenJDK 11.0.9  
+JSONライブラリー：Jackson 2.11.3  
 ```
 
 #### 画面イメージ  
