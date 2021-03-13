@@ -6,7 +6,7 @@ ___
 言語：Java 11  
 デスクトップ：Swing
 デベロッパーSDK：Adopt OpenJDK 11.0.10 + 9  
-JSONライブラリー：Jackson 2.12.1  
+JSONライブラリー：Jackson 2.12.2  
 ```
 
 #### 画面イメージ  
